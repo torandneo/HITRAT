@@ -1,0 +1,9 @@
+com\hit\rat\service\HitRatioService.class
+com\hit\rat\configuration\AppInitializer.class
+com\hit\rat\repository\AbstractDao.class
+com\hit\rat\repository\IHitRatioRepository.class
+com\hit\rat\entity\HitTupple.class
+com\hit\rat\repository\HitRatioRepository.class
+com\hit\rat\configuration\AppConfig.class
+com\hit\rat\controller\HitRatioController.class
+com\hit\rat\configuration\HibernateConfiguration.class
